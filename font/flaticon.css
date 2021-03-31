@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?cbfea7acaff96ca0a8ea75dc4668dfa7") format("truetype"),
+url("./flaticon.woff?cbfea7acaff96ca0a8ea75dc4668dfa7") format("woff"),
+url("./flaticon.woff2?cbfea7acaff96ca0a8ea75dc4668dfa7") format("woff2"),
+url("./flaticon.eot?cbfea7acaff96ca0a8ea75dc4668dfa7#iefix") format("embedded-opentype"),
+url("./flaticon.svg?cbfea7acaff96ca0a8ea75dc4668dfa7#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-manager:before {
+    content: "\f101";
+}
+.flaticon-rocket:before {
+    content: "\f102";
+}
+.flaticon-running-man:before {
+    content: "\f103";
+}
