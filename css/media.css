@@ -1,0 +1,816 @@
+@media(min-width:1200px) and (max-width:1399.98px){
+    .banner-content h1 {
+        font-size: 64px;
+    }
+    .contact-text h4 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        line-height: 36px;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    #banner {
+        height: 60vh;
+    }
+    .banner-text {
+        height: 60vh;
+    }
+    .banner-content p {
+        font-size: 13px;
+    }
+    .banner-content a {
+        font-size: 15px;
+        margin-right: 2px;
+        margin-left: 2px;
+        padding: 12px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+        padding-top: 44px;
+    }
+    .contact-text h4 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        line-height: 36px;
+    }
+    .newsletter-text h3 {
+        padding-top: 16px;
+        line-height: 30px;
+    }
+    .news-bg {
+        margin: 0 auto;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar {
+        padding-top: 10px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-brand img{
+        width: 120px;
+        padding-left: 8px;
+    }
+    .navbar-nav{
+        background-color: #353535 ;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0px;
+    }
+    #banner {
+        height: 60vh;
+    }
+    .banner-text {
+        height: 60vh;
+    }
+    .banner-content p {
+        font-size: 13px;
+    }
+    .banner-content a {
+        font-size: 15px;
+        margin-right: 2px;
+        margin-left: 2px;
+        padding: 12px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+        padding-top: 44px;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .about-heading {
+        padding-left: 10px;
+    }
+    .about-heading h3 {
+        font-size: 26px;
+    }
+    .about-heading .ca {
+        font-size: 23px;
+    }
+    .about-heading::before {
+        height: 60px;
+    }
+    .about-para p {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .about-para a {
+        font-size: 15px;
+        padding: 12px;
+        margin-left: 10px;
+    }
+    .about-heading::before {
+        margin-left: 10px;
+    }
+    .about-image {
+        height: 100%;
+        width: 100%;
+        padding: 60px 10px;
+    }
+    .about-border hr {
+        margin-top: -10px;
+    }
+    .icon-holder {
+        margin-left: 10px;
+    }
+    .icon-holder i {
+        top: 10px;
+    }
+    .about-text h4 {
+        padding-left: 72px;
+        padding-top: 38px;
+    }
+    .about-text p {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #learn-more {
+        padding-bottom: 62px;
+    }
+    .learn-more-text h3 {
+        font-size: 27px;
+        line-height: 45px;
+        padding-top: 60px;
+    }
+    .learn-more-text a {
+        font-size: 15px;
+        padding: 12px;
+    }
+    .service-heading::before {
+        margin-left: 10px;
+    }
+    .service-heading {
+        padding-left: 10px;
+    }
+    .service-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .service-border hr {
+        margin-top: 25px;
+    }
+    .card {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .mb-5{
+        margin-bottom: 0 !important;
+    }
+    .lady-image{
+        padding-top: 25px;
+    }
+    .lady-image img{
+        height: 250px;
+    }
+    .support{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+    .support h3 {
+        font-size: 23px;
+    }
+    .support p {
+        font-size: 13px;
+    }
+    .support-list {
+        font-size: 13px;
+    }
+    .contact-text h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 27px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .contact-btn a {
+        font-size: 15px;
+        padding: 12px;
+    }
+    .portfolio-heading::before {
+        margin-left: 10px;
+    }
+    .portfolio-heading {
+        padding-left: 10px;
+    }
+    .portfolio-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .blog-heading::before {
+        margin-left: 10px;
+    }
+    .blog-heading {
+        padding-left: 10px;
+    }
+    .blog-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .blog-border hr {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .blog1 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+    }
+    .date p {
+        padding-top: 4px;
+        padding-left: 10px;
+    }
+    .name p {
+        padding-top: 14px;
+        padding-left: 10px;
+    }
+    .blog2 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-bottom: 14px;
+    }
+    .blog3 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-bottom: 14px;
+    }
+    #blog {
+        padding-bottom: 26px;
+    }
+    .newsletter-text h3 {
+        font-size: 20px;
+        padding-left: 10px;
+    }
+    .newsletter-text p {
+        padding-left: 10px;
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .news-bg {
+        margin: 0 auto;
+    }
+    .field button {
+        margin: 26px 150px;
+    }
+    .footer1 {
+        padding-left: 10px;
+        text-align: center;
+    }
+    .footer-text p {
+        font-size: 13px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .footer2 {
+        padding-top: 10px;
+        padding-left: 40px;
+    }
+    .footer3 {
+        padding-top: 10px;
+        padding-left: 40px;
+    }
+    .footer4 {
+        padding-top: 10px;
+        padding-left: 40px;
+    }
+    .footer-border hr {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .copyright-left {
+        padding-left: 10px;
+    }
+    .copyright-right{
+        padding-right: 10px;
+    }
+    .text-end{
+        text-align: right !important;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar {
+        padding-top: 10px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-brand img{
+        width: 120px;
+        padding-left: 8px;
+    }
+    .navbar-nav{
+        background-color: #353535 ;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0px;
+    }
+    #banner {
+        height: 60vh;
+    }
+    .banner-text {
+        height: 60vh;
+    }
+    .banner-content p {
+        font-size: 13px;
+    }
+    .banner-content a {
+        font-size: 15px;
+        margin-right: 2px;
+        margin-left: 2px;
+        padding: 12px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+        padding-top: 44px;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .about-heading {
+        padding-left: 10px;
+    }
+    .about-heading h3 {
+        font-size: 26px;
+    }
+    .about-heading .ca {
+        font-size: 23px;
+    }
+    .about-heading::before {
+        height: 60px;
+    }
+    .about-para p {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .about-para a {
+        font-size: 15px;
+        padding: 12px;
+        margin-left: 10px;
+    }
+    .about-heading::before {
+        margin-left: 10px;
+    }
+    .about-image {
+        height: 100%;
+        width: 100%;
+        padding: 60px 10px;
+    }
+    .about-border hr {
+        margin-top: -10px;
+    }
+    .icon-holder {
+        margin-left: 10px;
+    }
+    .icon-holder i {
+        top: 10px;
+    }
+    .about-text h4 {
+        padding-left: 72px;
+        padding-top: 38px;
+    }
+    .about-text p {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #learn-more {
+        padding-bottom: 62px;
+    }
+    .learn-more-text h3 {
+        font-size: 27px;
+        line-height: 45px;
+        padding-top: 60px;
+    }
+    .learn-more-text a {
+        font-size: 15px;
+        padding: 12px;
+    }
+    .service-heading::before {
+        margin-left: 10px;
+    }
+    .service-heading {
+        padding-left: 10px;
+    }
+    .service-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .service-border hr {
+        margin-top: 25px;
+    }
+    .card {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .mb-5{
+        margin-bottom: 0 !important;
+    }
+    .lady-image{
+        padding-top: 25px;
+    }
+    .lady-image img{
+        height: 250px;
+    }
+    .support{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+    .support h3 {
+        font-size: 23px;
+    }
+    .support p {
+        font-size: 13px;
+    }
+    .support-list {
+        font-size: 13px;
+    }
+    .contact-text h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 27px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .contact-btn a {
+        font-size: 15px;
+        padding: 12px;
+    }
+    .portfolio-heading::before {
+        margin-left: 10px;
+    }
+    .portfolio-heading {
+        padding-left: 10px;
+    }
+    .portfolio-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .blog-heading::before {
+        margin-left: 10px;
+    }
+    .blog-heading {
+        padding-left: 10px;
+    }
+    .blog-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .blog-border hr {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .blog1 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+    }
+    .date p {
+        padding-top: 4px;
+        padding-left: 10px;
+    }
+    .name p {
+        padding-top: 14px;
+        padding-left: 10px;
+    }
+    .blog2 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-bottom: 14px;
+    }
+    .blog3 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-bottom: 14px;
+    }
+    #blog {
+        padding-bottom: 26px;
+    }
+    .newsletter-text h3 {
+        font-size: 16px;
+        padding-left: 10px;
+    }
+    .newsletter-text p {
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .news-bg {
+        margin: 0 auto;
+    }
+    .field button {
+        margin: 26px 100px;
+    }
+    .footer1 {
+        padding-left: 10px;
+    }
+    .footer-text p {
+        font-size: 13px;
+        padding-left: 10px;
+    }
+    .footer2 {
+        padding-top: 0px;
+    }
+    .footer3 {
+        padding-top: 0px;
+    }
+    .footer4 {
+        padding-top: 0px;
+    }
+    .footer-border hr {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .copyright-left {
+        padding-left: 10px;
+    }
+    .copyright-right{
+        padding-right: 10px;
+    }
+    .text-end{
+        text-align: right !important;
+    }
+}
+@media(max-width:575.98px){
+    .navbar {
+        padding-top: 10px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-brand img{
+        width: 120px;
+        padding-left: 8px;
+    }
+    .navbar-nav{
+        background-color: #353535 ;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0px;
+    }
+    .banner-content h1 {
+        font-size: 28px;
+        line-height: 34px;
+        padding-top: 50px;
+    }
+    #banner {
+        height: 60vh;
+    }
+    .banner-text {
+        height: 60vh;
+    }
+    .banner-content p {
+        font-size: 13px;
+    }
+    .banner-content a {
+        font-size: 15px;
+        margin-right: 2px;
+        margin-left: 2px;
+        padding: 12px;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .about-heading {
+        padding-left: 10px;
+    }
+    .about-heading h3 {
+        font-size: 26px;
+    }
+    .about-heading .ca {
+        font-size: 23px;
+    }
+    .about-heading::before {
+        height: 60px;
+    }
+    .about-para p {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .about-para a {
+        font-size: 15px;
+        padding: 12px;
+        margin-left: 10px;
+    }
+    .about-heading::before {
+        margin-left: 10px;
+    }
+    .about-image {
+        height: 100%;
+        width: 100%;
+        padding: 60px 10px;
+    }
+    .about-border hr {
+        margin-top: -10px;
+    }
+    .icon-holder {
+        margin-left: 10px;
+    }
+    .icon-holder i {
+        top: 10px;
+    }
+    .about-text h4 {
+        padding-left: 72px;
+        padding-top: 38px;
+    }
+    .about-text p {
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #learn-more {
+        padding-bottom: 62px;
+    }
+    .learn-more-text h3 {
+        font-size: 27px;
+        line-height: 45px;
+        padding-top: 60px;
+    }
+    .learn-more-text a {
+        font-size: 15px;
+        padding: 12px;
+    }
+    .service-heading::before {
+        margin-left: 10px;
+    }
+    .service-heading {
+        padding-left: 10px;
+    }
+    .service-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .service-border hr {
+        margin-top: 25px;
+    }
+    .card {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .mb-5{
+        margin-bottom: 0 !important;
+    }
+    .lady-image{
+        padding-top: 25px;
+    }
+    .lady-image img{
+        height: 250px;
+    }
+    .support{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+    .support h3 {
+        font-size: 23px;
+    }
+    .support p {
+        font-size: 13px;
+    }
+    .support-list {
+        font-size: 13px;
+    }
+    .contact-text h4 {
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 27px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .contact-btn a {
+        font-size: 15px;
+        padding: 12px;
+    }
+    .portfolio-heading::before {
+        margin-left: 10px;
+    }
+    .portfolio-heading {
+        padding-left: 10px;
+    }
+    .portfolio-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .blog-heading::before {
+        margin-left: 10px;
+    }
+    .blog-heading {
+        padding-left: 10px;
+    }
+    .blog-heading h3 {
+        font-size: 26px;
+        padding-bottom: 35px;
+    }
+    .blog-border hr {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .blog1 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+    }
+    .date p {
+        padding-top: 4px;
+        padding-left: 10px;
+    }
+    .name p {
+        padding-top: 14px;
+        padding-left: 10px;
+    }
+    .blog2 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-bottom: 14px;
+    }
+    .blog3 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-bottom: 14px;
+    }
+    #blog {
+        padding-bottom: 26px;
+    }
+    .newsletter-text h3 {
+        font-size: 16px;
+        padding-left: 10px;
+    }
+    .newsletter-text p {
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .news-bg {
+        margin: 0 auto;
+    }
+    .field button {
+        margin: 26px 54px;
+    }
+    .footer1 {
+        padding-left: 10px;
+    }
+    .footer-text p {
+        font-size: 13px;
+        padding-left: 10px;
+    }
+    .footer2 {
+        padding-top: 0px;
+    }
+    .footer3 {
+        padding-top: 0px;
+        padding-left: 100px;
+    }
+    .footer4 {
+        padding-top: 0px;
+    }
+    .footer-border hr {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .copyright-left {
+        padding-left: 10px;
+    }
+    .text-end{
+        text-align: center !important;
+    }
+}

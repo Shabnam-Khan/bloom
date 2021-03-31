@@ -8,6 +8,14 @@ $('.port-slider').slick({
     centerPadding: false,
     autoplaySpeed: 2000,
     arrows: false,
+    responsive: [
+      {
+        breakpoint: 576,
+        settings: {
+          slidesToShow: 1,
+        }
+      }
+    ]
   });
 
 // scroll spy 

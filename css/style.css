@@ -41,7 +41,7 @@ body{
     -o-transition: all linear .5s;
 }
 .back-to-top:hover{
-    background: #353535;
+    background: #1c1c1c;
     color: #fff;
 }
 /* navbar part goes here */
@@ -50,7 +50,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: #f5f5f5;
     font-size: 15px;
-    padding-right: 7px;
+    padding-left: 20px;
     text-transform: uppercase;
     transition: all linear .3s;
     -webkit-transition: all linear .3s;
@@ -343,6 +343,10 @@ body{
     padding-top: 8px;
     padding-bottom: 23px;
 }
+.service-border hr{
+    border: 3px solid #e0e0e0;
+    margin-top: 52px;
+}
 .card-body{
     background-color: #753d9d;
     padding-top: 20px;
@@ -353,6 +357,20 @@ body{
 .card-title{
     color: #fff;
     font-size: 17px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.card-title2{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.card-title3{
+    color: #fff;
+    font-size: 15px;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
@@ -458,6 +476,10 @@ body{
     -moz-transition: all linear .3s;
     -ms-transition: all linear .3s;
     -o-transition: all linear .3s;
+}
+.contact-btn a:hover{
+    background-color: #e0c2f6;
+    color: #0d113d;
 }
 /* portfolio part goes here */
 #portfolio{
@@ -597,7 +619,7 @@ body{
     padding-top: 28px;
 }
 .blog-border hr{
-    border: 2px solid #f2f2f2;
+    border: 2px solid #e0e0e0;
 }
 /* footer part goes here */
 #footer{
@@ -715,6 +737,44 @@ input:focus{
     -o-transition: all linear .3s;
 }
 .footer2 ul li a:hover{
+    color: #753d9d;
+}
+.footer3{
+    padding-top: 78px;
+}
+.footer3 ul li a{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 32px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    -moz-transition: all linear .3s;
+    -ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+.footer3 ul li a:hover{
+    color: #753d9d;
+}
+.footer4{
+    padding-top: 78px;
+}
+.footer4 ul li a{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 32px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    -moz-transition: all linear .3s;
+    -ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+.footer4 ul li a:hover{
     color: #753d9d;
 }
 .footer-border hr{
